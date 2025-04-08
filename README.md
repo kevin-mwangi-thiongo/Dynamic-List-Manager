@@ -1,4 +1,3 @@
-# Dynamic-List-Manager Kevin Thiongo
 # Dynamic List Manager
 
 ## Objective
